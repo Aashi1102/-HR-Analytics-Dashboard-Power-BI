@@ -1,8 +1,8 @@
-📊 HR Analytics Dashboard – Power BI
+📊 **HR Analytics Dashboard – Power BI**
 
 This project presents an interactive HR Analytics Dashboard built in Power BI to help organizations identify key patterns behind employee attrition and workforce demographics. The dashboard offers actionable insights into attrition trends across education, salary ranges, age groups, job roles, and years at the company.
 
-🚀 Project Overview
+**🚀 Project Overview**
 
 Employee attrition is a major challenge for companies aiming to retain talent and maintain productivity.
 This dashboard analyzes employee demographics, job satisfaction, salary ranges, experience, and department to uncover the primary factors influencing attrition.
@@ -15,7 +15,7 @@ Understanding attrition behavior across roles and departments
 
 Highlighting areas where employee satisfaction needs improvement
 
-🎯 Key Insights
+**🎯 Key Insights**
 
 ✔ Total Employees: 1473
 ✔ Total Attrition: 237
@@ -24,7 +24,7 @@ Highlighting areas where employee satisfaction needs improvement
 ✔ Average Salary: 6.5K
 ✔ Average Years at Company: 7
 
-📌 Dashboard Features
+**📌 Dashboard Features**
 
 🔹 1. Attrition by Demographics
 
@@ -50,7 +50,7 @@ Trends in attrition based on years at the company
 
 Attrition concentration across salary categories
 
-🛠️ Tools & Technologies
+🛠️ **Tools & Technologies**
 
 Power BI Desktop
 
@@ -60,17 +60,17 @@ Data Modeling
 
 Data Cleaning & Transformation
 
-🖼️ Dashboard Preview
+**🖼️ Dashboard Preview**
 
 <img width="1327" height="711" alt="Screenshot 2025-11-18 230634" src="https://github.com/user-attachments/assets/320fcf2e-b819-4d2f-ae79-058757cfb73b" />
 
-📂 Project Structure
+**📂 Project Structure**
 ├── HR_Analytics_Dashboard.pbix        # Power BI file
 ├── Dataset/HR_Analytics.csv           # HR dataset
 ├── README.md                          # Project documentation
 └── Images/                            # Dashboard screenshots
 
-📈 How to Use
+**📈 How to Use**
 
 Clone this repository
 
@@ -80,7 +80,7 @@ Load the dataset (if required)
 
 Explore the dashboard using slicers and visualizations
 
-🔮 Future Enhancements
+**🔮 Future Enhancements**
 
 Predict attrition using Machine Learning
 
@@ -90,7 +90,7 @@ Automate data refresh using Power BI Service
 
 Integrate KPI cards for real-time HR monitoring
 
-👩‍💻 Author
+**👩‍💻 Author**
 
 Aashi Tomar
 Feel free to connect for collaboration or feedback!
