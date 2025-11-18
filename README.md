@@ -1,97 +1,99 @@
-📊 HR Analytics Dashboard – Power BI
+# 📊 **HR Analytics Dashboard – Power BI**
 
-This project presents an interactive HR Analytics Dashboard built in Power BI to help organizations identify key patterns behind employee attrition and workforce demographics. The dashboard offers actionable insights into attrition trends across education, salary ranges, age groups, job roles, and years at the company.
+This project presents an interactive **HR Analytics Dashboard** built in **Power BI** to help organizations identify key patterns behind employee attrition and workforce demographics. The dashboard offers actionable insights into attrition trends across **education**, **salary ranges**, **age groups**, **job roles**, and **years at the company**.
 
-🚀 Project Overview
+---
 
-Employee attrition is a major challenge for companies aiming to retain talent and maintain productivity.
-This dashboard analyzes employee demographics, job satisfaction, salary ranges, experience, and department to uncover the primary factors influencing attrition.
+## 🚀 **Project Overview**
+
+Employee attrition is a major challenge for companies aiming to retain talent and maintain productivity.  
+This dashboard analyzes **employee demographics**, **job satisfaction**, **salary ranges**, **experience**, and **department** to uncover the primary factors influencing attrition.
 
 The goal is to support data-driven HR decisions such as:
 
-Identifying high-risk employee groups
+- **Identifying high-risk employee groups**
+- **Understanding attrition behavior across roles and departments**
+- **Highlighting areas where employee satisfaction needs improvement**
 
-Understanding attrition behavior across roles and departments
+---
 
-Highlighting areas where employee satisfaction needs improvement
+## 🎯 **Key Insights**
 
-🎯 Key Insights
+- ✔ **Total Employees:** 1473  
+- ✔ **Total Attrition:** 237  
+- ✔ **Attrition Rate:** 16.1%  
+- ✔ **Average Age:** 37  
+- ✔ **Average Salary:** 6.5K  
+- ✔ **Average Years at Company:** 7  
 
-✔ Total Employees: 1473
-✔ Total Attrition: 237
-✔ Attrition Rate: 16.1%
-✔ Average Age: 37
-✔ Average Salary: 6.5K
-✔ Average Years at Company: 7
+---
 
-📌 Dashboard Features
-🔹 1. Attrition by Demographics
+## 📌 **Dashboard Features**
 
-Attrition by age, gender, education field, and salary ranges
+### 🔹 **1. Attrition by Demographics**
+- Attrition by **age**, **gender**, **education field**, and **salary ranges**
+- Highlights groups with the highest turnover
 
-Highlights groups with the highest turnover
+### 🔹 **2. Attrition by Job Roles**
+- Job roles with the highest attrition  
+- Includes **job satisfaction distribution**
 
-🔹 2. Attrition by Job Roles
+### 🔹 **3. Department-wise Overview**
+- Filters for **Human Resources**, **Research & Development**, and **Sales**
 
-Detailed breakdown showing job roles with maximum attrition
+### 🔹 **4. Experience-Based Attrition**
+- Trends based on **years at the company**
 
-Includes job satisfaction ratings
+### 🔹 **5. Salary Band Analysis**
+- Attrition concentration across **salary ranges**
 
-🔹 3. Department-wise Overview
+---
 
-Filters for Human Resources, Research & Development, and Sales
+## 🛠️ **Tools & Technologies**
 
-🔹 4. Experience-Based Attrition
+- **Power BI Desktop**
+- **DAX Measures**
+- **Data Modeling**
+- **Data Cleaning & Transformation**
 
-Trends in attrition based on years at the company
+---
 
-🔹 5. Salary Band Analysis
+## 🖼️ **Dashboard Preview**
 
-Attrition concentration across salary categories
+<img width="1327" height="711" alt="Screenshot 2025-11-18 230634" src="https://github.com/user-attachments/assets/ac0f1faf-5398-4afa-bc5a-22ab30293426" />
 
-🛠️ Tools & Technologies
+---
 
-Power BI Desktop
+## 📂 **Project Structure**
 
-DAX Measures
-
-Data Modeling
-
-Data Cleaning & Transformation
-
-🖼️ Dashboard Preview
-
-Below is a screenshot of the final dashboard:
-
-![HR Analytics Dashboard](Screenshot.png)
-
-📂 Project Structure
+```
 ├── HR_Analytics_Dashboard.pbix        # Power BI file
 ├── Dataset/HR_Analytics.csv           # HR dataset
 ├── README.md                          # Project documentation
 └── Images/                            # Dashboard screenshots
+```
 
-📈 How to Use
+---
 
-Clone this repository
+## 📈 **How to Use**
 
-Open the .pbix file in Power BI Desktop
+1. Clone this repository  
+2. Open the **.pbix** file in Power BI Desktop  
+3. Load the dataset (if required)  
+4. Explore the dashboard using slicers and filters  
 
-Load the dataset (if required)
+---
 
-Explore the dashboard using slicers and visualizations
+## 🔮 **Future Enhancements**
 
-🔮 Future Enhancements
+- Machine Learning–based attrition prediction  
+- Interactive drill-through pages  
+- Automated refresh via Power BI Service  
+- Real-time retention KPIs  
 
-Predict attrition using Machine Learning
+---
 
-Add interactive drill-through pages
+## 👩‍💻 **Author**
 
-Automate data refresh using Power BI Service
-
-Integrate KPI cards for real-time HR monitoring
-
-👩‍💻 Author
-
-Aashi Tomar
+**Aashi Tomar**  
 Feel free to connect for collaboration or feedback!
