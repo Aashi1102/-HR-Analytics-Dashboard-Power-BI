@@ -93,6 +93,10 @@ The goal is to support data-driven HR decisions such as:
 
 ---
 
+## 🔗 **LinkedIn**
+
+https://www.linkedin.com/posts/aashi-tomar-448a51333_dataanalytics-hranalytics-powerbi-activity-7396922248466657280-p-ao?utm_source=share&utm_medium=member_android&rcm=ACoAAFP7hjgBkpaK_6zP1988j5hGs9jvyp-KNjI
+
 ## 👩‍💻 **Author**
 
 **Aashi Tomar**  
